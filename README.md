@@ -16,9 +16,9 @@ I'm an experienced software engineer with a strong background in building and sc
 ### 🔹 **Adobe Systems India**  
 **Senior Computer Scientist** (Feb 2023 – Present)  
 - Module owner of virtual memory system for Photoshop
-- Architected live multi-user co-editing support
+- Worked on live multi-user co-editing support
 - Integrated Generative AI (Adobe Firefly) into Photoshop (Web & Mobile)
-- Key features: Camera Raw, File Ops, Brushes, GPU Liquify Tool
+- Key features: Camera Raw, File Ops, Brushes
 
 **Computer Scientist II** (Feb 2020 – Feb 2023)  
 - Contributed to cross-platform Photoshop core libraries  
@@ -39,7 +39,7 @@ I'm an experienced software engineer with a strong background in building and sc
 ---
 
 ### 🔹 **Ciena Corporation** (Feb 2016 – Dec 2016)  
-- Developed optical routing algorithms (Yen, Suurballe’s) for Web-based network planner  
+- Developed optical routing algorithms for Web-based network planner  
 - Built mesh survivability, path selection tools for simulation systems
 
 ---
