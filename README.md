@@ -15,7 +15,7 @@ I'm an experienced software engineer with a strong background in building and sc
 
 ### 🔹 **Adobe Systems India**  
 **Senior Computer Scientist** (Feb 2023 – Present)  
-- Worked on virtual memory system for Photoshop
+- Worked on virtual memory system for Photoshop including performance improvement of key functional areas.
 - Worked on live multi-user co-editing support
 - Integrated Generative AI (Adobe Firefly) into Photoshop (Web & Mobile)
 - Key features: Camera Raw, File Ops, Brushes
