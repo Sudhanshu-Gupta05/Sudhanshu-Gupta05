@@ -38,7 +38,7 @@ I'm an experienced software engineer with a strong background in building and sc
 
 ---
 
-### 🔹 **Ciena Corporation** (Feb 2016 – Dec 2016)  
+### 🔹 **Ciena Corporation** (Feb 2014 – Dec 2016)  
 - Developed optical routing algorithms for Web-based network planner  
 - Built mesh survivability, path selection tools for simulation systems
 
