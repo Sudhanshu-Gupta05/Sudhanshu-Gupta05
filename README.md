@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sudhanshu Gupta
 
-**Senior Computer Scientist @ Adobe** | **15+ years of software engineering experience**  
+**Senior Computer Scientist @ Adobe** | **16+ years of software engineering experience**  
 Specializing in cross-platform development, parallel computing and performance optimization, AWS cloud computing
 
 ---
