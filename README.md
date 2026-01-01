@@ -58,7 +58,7 @@ I'm an experienced software engineer with a strong background in building and sc
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Modern C++, Rust, TypeScript, Kotlin, Python, Node.js  
+- **Languages**: Modern C++,JAVA,Rust, TypeScript, Kotlin, Python, Node.js  
 - **Architecture**: Microservices, Multithreading, Reactive Programming  
 - **Cloud**: AWS, Docker, Kubernetes, REST APIs  
 - **Frontend & Web**: Node.js, Express, WebAssembly, Message Queues  
