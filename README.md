@@ -69,12 +69,12 @@ Software Development Engineer with specialisation on application and system deve
 
 ## 🛠️ Technical Skills
 
-- **Languages**: Modern C++,JAVA,Rust, TypeScript, Kotlin, Python, Node.js  
-- **Architecture**: Microservices, Multithreading, Reactive Programming  
-- **Cloud**: AWS, Docker, Kubernetes, REST APIs  
-- **Frontend & Web**: Node.js, Express, WebAssembly, Message Queues  
-- **Mobile & Desktop**: Android, iOS, device drivers, system-level debugging  
-- **Tools**: Profilers, GPU (Vulkan), Memory analyzers, Git
+- **Languages**: Modern C++,JAVA, Python and Typescript
+- **AI Tools** : Claude , Cursor 
+- **Architecture**: Microservices , WASM   
+- **Cloud**: AWS, Kafka , REST API , Kinesis , Stream processing
+- **Mobile & Desktop**: Android, iOS, device drivers, system-level debugging and performance improvement
+- **Tools**: Profilers, Memory analyzer
 
 ---
 
