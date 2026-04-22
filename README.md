@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Sudhanshu Gupta
 
 **Senior Computer Scientist @ Adobe** | **16+ years of software engineering experience**  
-Specializing in cross-platform development, parallel computing and performance optimization, AWS cloud computing
+Software Development Engineer with specialisation on application and system development across platforms on Web , Mobile(iOS and Android) and Desktop( Mac and Win) . Contributed to products like MATLAB , Adobe Photoshop and Animate , Samsung Galaxy S4 , Ciena Blueplanet and Mitel MIVoice.
 
 ---
 
