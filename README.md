@@ -5,9 +5,20 @@ Software Development Engineer with specialisation on application and system deve
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Professinal Experience Summary
 
-I'm an experienced software engineer with a strong background in building and scaling products across **Web**, **Mobile (Android/iOS)**, and **Desktop (Windows/Mac)** platforms. I’ve led architecture and feature design for products like **Adobe Photoshop** and **Animate CC**, and contributed to core systems such as memory management, GPU-powered tools, and AI integration.
+- Experience on platform and feature development for applications and low level system development.
+- Knowledge on Browser Web App developemnt with experience on AWS, Kafka and stream processing.
+- Knowledge on Mobile application and platform development including communication protocol and Bluetooth development.
+- Experience on high performance system developemnt including performance improvement and system optimisation.
+- Programming languages : Python, C++, Java and Typescript.
+- AI/ML : Continiously learning and building projects in Generative AI and Machine learning.
+          Large Language Model (LLM) architectures
+          Multimodal AI system design
+          Agentic system development using frameworks LangChain and LangGraph.
+          Machine learning model training and fine-tuning
+          TensorFlow, PyTorch, Hugging Face
+          AI monitoring and observability tools Langfuse, Prometheus, Grafana .
 
 ---
 
