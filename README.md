@@ -12,6 +12,8 @@ Software Development Engineer with specialisation on application and system deve
 - Knowledge on Mobile application and platform development including communication protocol and Bluetooth development.
 - Experience on high performance system developemnt including performance improvement and system optimisation.
 - Programming languages : Python, C++, Java and Typescript.
+- Expertise in distributed computing including distributed schedulers, HPC, large-scale data platforms.
+- Expertise in CUDA/GPU programming including performance tuning and GPU orchestration.
 - AI/ML : Continiously learning and building projects in Generative AI and Machine learning.
           Large Language Model (LLM) architectures
           Multimodal AI system design
